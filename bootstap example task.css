@@ -1,0 +1,63 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	overflow-x: hidden;
+	font-family: sans-serif;
+}
+.navbar-nav li a:hover{
+	color:blue !important;
+}
+.main{
+	padding-bottom: 250px;
+}
+.main1{
+	padding-bottom: 250px;
+}
+.main2{
+	padding-bottom: 250px;
+}
+.oi {
+	padding-bottom: 40px;
+	padding-top: 40px ;
+}
+.card2{
+	margin: auto;
+}
+.book p a{
+	background-color:orange;
+	color: 	white	;
+}
+.book p a:hover{
+	background-color:blue !important;
+	color: black;
+
+}
+.ok img{
+	border: 18px solid white;
+	border-radius: -2px;
+}
+.uk{
+	height: 200px;
+}
+.uk img{
+	border-radius: 50%;
+	width: 25%;
+	margin: auto;
+	height: 75px
+}
+.OA{
+	font-size: 80px;
+/*}
+.carousel-inner::before{
+	content: '';
+	width: 100% ;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	background-color:rgba(0, 0, 0, 0.7);
+	position: absolute;
+*/
+}
